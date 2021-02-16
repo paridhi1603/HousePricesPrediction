@@ -1,0 +1,32 @@
+{
+    "id": "CD761B8B",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1612992463340.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "train",
+        "caption": "train",
+        "totalObservations": 10000,
+        "displayedObservations": 10000,
+        "variables": 26,
+        "cacheKey": "7885F964",
+        "object": "train",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=train&cache_key=7885F964&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 140210541404104,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612992463340,
+    "read_only": false,
+    "read_only_alternatives": []
+}

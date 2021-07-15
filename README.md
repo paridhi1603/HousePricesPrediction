@@ -1,5 +1,5 @@
 # House Price Prediction
-predict the house price on the basis of different features
+Predict the house price on the basis of different features
 
 
 # Dataset
